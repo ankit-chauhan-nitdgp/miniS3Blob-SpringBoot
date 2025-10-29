@@ -1,0 +1,12 @@
+{
+  "docs" : {
+    "test3.jpg" : {
+      "key" : "test3.jpg",
+      "createdAt" : 1761765059007
+    },
+    "test2.jpg" : {
+      "key" : "test2.jpg",
+      "createdAt" : 1761765078502
+    }
+  }
+}
